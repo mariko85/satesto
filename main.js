@@ -1,0 +1,7 @@
+console.log("Name is : Mindia")
+console.log("Surname is : Arabuli")
+console.log("Age:100")
+console.log("Name is : Mindia")
+console.warn("Email:test@gmail.com")
+console.warn("password:123456")
+console.log("Pgone: 555-555-555")
